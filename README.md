@@ -2,7 +2,7 @@
 
 💻 Software Engineer @ StartGuides 
 🎓 Software Engineering @ UC Irvine (Class of 2025)  
-🌐 Building things at the intersection of **cloud, AI, and full-stack web**  
+🌐 Building things at the intersection of **cloud, AI, and full-stack**  
 🛠️ Skilled in **Python, C++, TypeScript, React, AWS, MongoDB, SQL**  
 ⚡ Fun fact: I have a Cane Corso named Bane
 
